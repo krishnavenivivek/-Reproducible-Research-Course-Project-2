@@ -1,1 +1,1 @@
-# -Reproducible-Research-Course-Project-two
+# Reproducible-Research-Course-Project-two
