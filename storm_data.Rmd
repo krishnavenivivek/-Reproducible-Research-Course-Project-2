@@ -1,5 +1,6 @@
 Reproducible Research: Peer Assessment 2
-==========================================Krishnaveni Vivekanandan
+==========================================
+Krishnaveni Vivekanandan
 
 ## Impact of Severe Weather Events on Public Health and Economy in the United States
 
